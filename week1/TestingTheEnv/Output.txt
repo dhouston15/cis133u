@@ -1,0 +1,23 @@
+Script started on Mon 03 Apr 2017 01:24:42 AM PDT
+]0;dave@jotunheim: ~/repos/cis133/TestingTheEnvdave@jotunheim:~/repos/cis133/TestingTheEnv$ cat testingTheEnv.c 
+/*
+   Hello World demonstration program
+   Kavita N
+   */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	printf("Hello World!\n");
+	getchar();
+	return 0;
+}
+]0;dave@jotunheim: ~/repos/cis133/TestingTheEnvdave@jotunheim:~/repos/cis133/TestingTheEnv$ gcc -o testingTheEnv.c [K[K[K testingTheEnv.c [K[Kc
+]0;dave@jotunheim: ~/repos/cis133/TestingTheEnvdave@jotunheim:~/repos/cis133/TestingTheEnv$ ./testingTheEnv 
+Hello World!
+
+]0;dave@jotunheim: ~/repos/cis133/TestingTheEnvdave@jotunheim:~/repos/cis133/TestingTheEnv$ exit
+exit
+
+Script done on Mon 03 Apr 2017 01:24:59 AM PDT
