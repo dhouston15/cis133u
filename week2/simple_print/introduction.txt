@@ -1,0 +1,67 @@
+Why are you taking CS 133U?
+
+    Because it meets a requirement for my degree and because I have never    (successfully) taken a C course before, despite being a developer     "for realsies". 
+
+What type of programming experience do you have?
+
+    I currently work as a senior software developer at Capital One.  I've    got over 15 years' experience as a developer.  
+
+What type of system (Windows, Linux, Apple, etc.) will you use to develop programs?
+
+    More likely than not, some variety of linux, probably Ubuntu inside    a virtual machine, but some random AWS instance isn't out of the picture if    I end up travelling a lot this quarter.  (stupid job)
+
+What IDE (DevC++, Visual Studio, Xcode, etc.) will you use to develop programs?
+
+    I use vim with lots of plugins, most notable, neocomplete for token    completion, neosnippets for putting snippets into neocomplete's UI,    and ALE, which is an async linter plugin for all sorts of languages.
+
+List the assignments and their submission dates.
+
+    Introduction Assignment	4/8/2017 17:00
+    testing the env Assignment	4/8/2017 17:00
+    Lab 1	4/8/2017 17:00
+    Simple Print Assignment	4/18/2017 0:00
+    Lab 2 printf	4/18/2017 0:00
+    Data Exercise Assignment and formatted IO	4/25/2017 0:00
+    Lab 3 Formatted IO	4/25/2017 0:00
+    Arithmetic Expressions assignment	5/2/2017 0:00
+    Lab 4 Expressions and Limits	5/2/2017 0:00
+    Condition and Loops	5/9/2017 0:00
+    Lab 5 Selection and Loops	5/9/2017 0:00
+    Arrays Assignment	5/16/2017 0:00
+    Lab 6 Arrays	5/16/2017 0:00
+    Strings	5/23/2017 0:00
+    Lab 7 strings	5/23/2017 0:00
+    Functions Assignment	5/30/2017 0:00
+    Lab 8 Functions	5/30/2017 0:00
+    Structures	6/6/2017 0:00
+    Lab 9 structures	6/6/2017 0:00
+    Pointers and Function(EC)	6/13/2017 0:00
+
+List the required exams and their end dates.
+
+    Final Exam  2017-Jun-15
+    Midterm Exam 2017-Jun-15
+    Intro to C Quiz 2017-Jun-14
+
+How long are the exams open? For a week? month? term?
+
+    The entire term.
+
+How many attempts are you allowed for each mandatory exam? Which score counts towards your grade?
+
+    2 Attempts; whichever is higher.
+
+List all the places on Desire2Learn where the instructor might put assignment help for you? (hint: discussion is one of em)
+
+    Course Home > Announcements
+    Discussion Forums
+    Assignment Description
+    Tutoring Link
+
+What is the maximum total assignment (including the extra credit) score that you can achieve in this class?
+
+    1,000 points.
+
+When and where are the instructor's office hours?
+
+    Couldn't say:  D2L doesn't have a schedule yet. ;)
