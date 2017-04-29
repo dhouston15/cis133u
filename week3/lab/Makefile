@@ -1,4 +1,4 @@
-all: build run
+all: clean build run
 	
 build: lab3
 
