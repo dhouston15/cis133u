@@ -1,3 +1,12 @@
+/* 
+ * Name: Dave Houston
+ * Assignment: Assignment 4
+ * Date Written: 2017-April-28
+ * Course: CIS 133U
+ * Program: arithmetic.c
+ * Purpose: This does some math and displays it
+ * Sources: Just me
+ */
 #include <stdio.h>
 #include <math.h>
 
